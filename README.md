@@ -4,12 +4,11 @@
 - 🌱 I’m currently learning ...
 - Programming languages: Python, Java, and Dart
 - I also learn data science
-- And I also know Graphic Design
 - 💞️ I’m looking to collaborate on ...
 - Some startup companies
 - 📫 How to reach me ...
 - mail : Sayed_201900359@fci.helwan.edu.eg
-- gmail : sa5961196@gmail.com
+- gmail : sayedanwar2411@gmail.com
 - linkedin : https://www.linkedin.com/in/sayed-anwar-3485081b2
 - facebook : https://www.facebook.com/profile.php?id=100042160892222
 - instagram : https://www.instagram.com/sayed_anwar222/

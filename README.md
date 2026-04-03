@@ -10,6 +10,8 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=true&text=Hey%20%F0%9F%91%8BWhat's%20Up?&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=200&center=true&vCenter=true&width=450&lines=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85+%D8%B9%D9%84%D9%8A%D9%83%D9%85;Peace+be+upon+you;La+paix+soit+sur+vous;La+paz+sea+contigo;Friede+sei+mit+dir;%E6%84%BF%E5%B9%B3%E5%AE%89%E4%B8%8E%E4%BD%A0%E5%90%8C%E5%9C%A8;%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AB%E5%B9%B3%E5%92%8C%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%82%88%E3%81%86%E3%81%AB;%D0%9C%D0%B8%D1%80+%D0%B2%D0%B0%D0%BC;Selam%C3%BCn+aleyk%C3%BCm;%E0%A4%86%E0%A4%AA+%E0%A4%AA%E0%A4%B0+%E0%A4%B6%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A4%BF+%E0%A4%B9%E0%A5%8B)](https://git.io/typing-svg)
+
 ###
 
 <div align="center">

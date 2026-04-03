@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=200&center=true&vCenter=true&width=450&lines=Odoo+Developer+building+smart+ERP+solutions;Turning+business+needs+into+clean+code;Passionate+about+Odoo%2C+Python%2C+and+problem+solving;Backend-focused+with+strong+ERP+experience;Customizing+Odoo+to+fit+real-world+business+needs;Writing+clean%2C+scalable%2C+and+maintainable+code;Focused+on+performance+and+smart+architecture;Always+learning%2C+always+improving;Code+with+purpose%2C+not+just+logic;Clean+Code+%E2%80%A2+Smart+Logic+%E2%80%A2+Real+Impact;I+don't+just+customize+Odoo%2C+I+build+solutions;Making+ERP+systems+smarter%2C+one+module+at+a+time" alt="Typing SVG" /></a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=200&center=true&vCenter=true&multiline=true&width=450&lines=Odoo+Developer+building+smart+ERP+solutions;Turning+business+needs+into+clean+code;Passionate+about+Odoo%2C+Python%2C+and+problem+solving;Backend-focused+with+strong+ERP+experience;Customizing+Odoo+to+fit+real-world+business+needs;Writing+clean%2C+scalable%2C+and+maintainable+code;Focused+on+performance+and+smart+architecture;Always+learning%2C+always+improving;Code+with+purpose%2C+not+just+logic;Clean+Code+%E2%80%A2+Smart+Logic+%E2%80%A2+Real+Impact;I+don't+just+customize+Odoo%2C+I+build+solutions;Making+ERP+systems+smarter%2C+one+module+at+a+time)](https://git.io/typing-svg)
 </div>
 
 ###
